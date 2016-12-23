@@ -1,4 +1,4 @@
-zsh:1: command not found: q
+#TSP with simmulated annealing method
 
 Makefile should produce an executable file named tsp
 
